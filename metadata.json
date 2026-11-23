@@ -1,0 +1,6 @@
+{
+  "name": "조선 타임머신 톡",
+  "description": "초등학생이 세종대왕, 장영실, 이순신 장군, 신사임당, 정약용 등 조선 시대 핵심 역사 인물과 직접 대화하며 역사를 배우는 인터랙티브 교육 웹 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
